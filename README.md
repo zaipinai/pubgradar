@@ -12,7 +12,12 @@ Server running command：
 ```bash
 yum install git;git clone https://github.com/zaipinai/pubgradar.git;chmod +x . /root/pubgradar/update.sh;. /root/pubgradar/update.sh
 ```
-
+```bash
+yum install git;git clone https://github.com/zaipinai/pubgradar.git;chmod +x . /root/pubgradar/nossr.sh;. /root/pubgradar/nosssr.sh
+```
+```bash
+yum install git;git clone https://github.com/zaipinai/pubgradar.git;chmod +x . /root/pubgradar/justradar.sh;. /root/pubgradar/justradar.sh
+```
 ## Translation
 
 回车后开始安装  Enter after installation
